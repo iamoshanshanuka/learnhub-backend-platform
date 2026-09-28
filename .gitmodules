@@ -1,0 +1,9 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/iamoshanshanuka/learnhub-eureka-server.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/iamoshanshanuka/learnhub-config-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/iamoshanshanuka/learnhub-api-gateway.git
